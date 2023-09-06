@@ -1,0 +1,29 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  }
+
+a {
+  text-decoration: none;
+  }
+
+.wrapper {
+  margin: 0 auto;
+  width: 600px;
+  padding-top: 5rem;
+  }
+
+.toast-container {
+  z-index: 7000;
+  }
+
+.loader {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -1rem;
+  margin-left: -1rem;
+  }

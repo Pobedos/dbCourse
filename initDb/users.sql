@@ -1,0 +1,376 @@
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Abra','Burks',3,'+75873385281','NIIKRTRQ','HYO16YBQ8MW'),
+    ('Ryder','Clay',3,'+73059284439','GSHBCATS','WMK57WZS2XN'),
+    ('Buffy','Pollard',3,'+78782033160','YMYUXGLC','EXC51LVI5QX'),
+    ('Sydnee','Ortega',3,'+71314555215','QHEPMNGO','GDU56BRL7CW'),
+    ('Echo','Gordon',3,'81662125382','IGNCDKVT','RMJ76BRM3UV'),
+    ('Bradley','Pierce',3,'+70848773645','GPBSKJDY','HJH78HLL6BM'),
+    ('Clinton','Vasquez',3,'83382297238','BDGQBRHL','YDG71TBU1KX'),
+    ('Ainsley','Leonard',3,'+74683143885','TSNTDWXI','XXL35QXF3DA'),
+    ('Ira','Nash',3,'+73688326013','ZQGYRMLJ','QBP24OIB1DO'),
+    ('Quemby','Kidd',3,'81622933297','PFJXXWOE','EMN23MRT2IL');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Patrick','Mcconnell',3,'+71283624648','USJEOKSA','EMW55MJA3XP'),
+    ('Chelsea','Lloyd',3,'82914536897','VWGJKOBV','JNB55UIZ5DO'),
+    ('Margaret','Foster',3,'+76421327173','QHSETYCV','FPR93WOP8VM'),
+    ('Yolanda','Morrow',3,'+71362306569','YYNMUFHC','XJS79KCT0OI'),
+    ('John','Vincent',3,'82730969036','JLXGYEKC','GKM02GHA5YT'),
+    ('Ulric','Durham',3,'82912663446','LSLMAQIB','HSH97XST8VM'),
+    ('Stone','Mercer',3,'+73807123932','UHFKEGDI','WHD20KHX6IN'),
+    ('Melissa','Chase',3,'+79336311649','BFGPXJNN','THT75RCH4FM'),
+    ('Haley','Marks',3,'+73883822142','KNXTAECX','TGH85IZR8HO'),
+    ('Alvin','Ford',3,'+77997719123','SGPWCAXC','ACD44WIW1WL');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Tad','Melton',3,'85350426946','KBFOETRS','NUJ41FMK6SV'),
+    ('Lester','Flynn',3,'80547372603','JMUNCOCY','OJK49EMS3OW'),
+    ('Simon','Barker',3,'86798624820','HTKVXTSN','UDE04GCU4ZY'),
+    ('Kennedy','Dodson',3,'81195435987','VGCQSYJQ','XMH71ZXZ1NT'),
+    ('Odessa','Mendez',3,'87554679412','PEFMHKKE','UUX84JYM6KE'),
+    ('Drake','York',3,'86692186136','GSALNQEC','XAE09MNY6PE'),
+    ('Rajah','Goodwin',3,'87447283072','BPMOODJH','APY15MGG7JG'),
+    ('Preston','Kirkland',3,'+74553383763','PHGGBGOW','YEJ23RJP1GE'),
+    ('Shaeleigh','Peters',3,'83168725026','SOLQHHCU','MRR19UMQ7LS'),
+    ('Aimee','Yates',3,'+79705084722','BXJMFBOD','QAX72JGG3NF');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Elton','Tate',3,'81936578187','JEIELSFH','BRL44OPL6IG'),
+    ('Samantha','Curry',3,'+77051329377','WTEGUQJP','ECC55BKE8MT'),
+    ('Bruce','Diaz',3,'+70267176018','KIETIILU','OIP38DVC1XE'),
+    ('Jamalia','Branch',3,'82763465780','QOTIPVIG','YON36HJZ6HF'),
+    ('Felix','Phelps',3,'+74638962749','ZPNKFXKF','YGQ25NLV6PN'),
+    ('Chandler','Fernandez',3,'+72721100478','DYACYFRV','KDM24OIZ7TR'),
+    ('Medge','Johnson',3,'84370664677','NVGGOFVZ','EQB36KGM8WY'),
+    ('Marcia','Sellers',3,'88474361848','KZPRRIWC','SEU38HSF2QX'),
+    ('Mannix','Gillespie',3,'+77423424227','STOOCKOP','QQT56TYQ8HF'),
+    ('Paki','Morton',3,'+76070861187','BITTAKQJ','XHL72AON6MZ');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Carlos','Buchanan',3,'+71613132085','OOELBHGX','PIV47GSD5YV'),
+    ('Alec','Hodges',3,'+76783987717','LMKKUEHS','ITE87RCQ8BS'),
+    ('Pamela','Lane',3,'+77784575557','TKPIPZQW','FGA24MDW3KM'),
+    ('Kevyn','Singleton',3,'+73621633584','RWBMELKQ','VBS45GYX3RQ'),
+    ('Carl','Reilly',3,'83708288238','DJBQBEFN','UKR82VAE6JG'),
+    ('Kiona','Pate',3,'86724016221','YUPIVXQG','MKF17OYE3TB'),
+    ('Stephen','Carver',3,'89278915071','LBPCLMVW','ANW63VMH2VO'),
+    ('Cameron','Austin',3,'+77543773742','EVAODTTS','PRE29KLO1KI'),
+    ('Kevyn','Potter',3,'84786378257','CKRJQRQZ','GER53VBB7VL'),
+    ('Demetrius','Boone',3,'+76214698861','TVUBCEFA','GPH16LHO9XK');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Charity','Banks',3,'+72154678727','DERXOLOL','FPL21CNL2IF'),
+    ('Mara','Gross',3,'+72345862265','AQHPOMWC','ZDN47NGB7XJ'),
+    ('Thor','Compton',3,'85068965650','JSNDCOJB','POE81DIV7WW'),
+    ('Francesca','Middleton',3,'82257225468','ORFGFFFC','UKB40URC0GY'),
+    ('Thomas','Mathews',3,'+75617431982','BRSFLPXV','ESF93XIP8NO'),
+    ('Sigourney','Roach',3,'88065325776','TVJJGRQC','EDN14HKU0IJ'),
+    ('Stella','Franks',3,'81420212864','FUIYVOUV','OFW16XYY2KK'),
+    ('Calista','Kerr',3,'88030138852','EJUWQFJU','QAH58PHP2TW'),
+    ('Peter','Norris',3,'+76770558147','EOYSBYGL','SQH28NKK8NN'),
+    ('Caldwell','Greer',3,'+70766353484','ETNIUMTX','PFD49NUR6CX');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Wyatt','Madden',3,'+77870335515','ITTCDERQ','FCX35VRQ3GQ'),
+    ('Amal','Mcfadden',3,'82564406189','XYEXJYWT','YXC03GRA4QL'),
+    ('Aristotle','Walter',3,'86112542831','BCUIPRSC','VJZ88BFG1QB'),
+    ('Patricia','Frank',3,'+77178451272','INRDXCJJ','FFB07TPS5TN'),
+    ('Amela','Craig',3,'+78684875033','NOPZZPXY','WVV24HTX7FD'),
+    ('Xanthus','Morse',3,'+70899357231','DXMRTCZS','LMG75VVI5KV'),
+    ('Deacon','Anderson',3,'88817496442','XPQBDDJX','GPT55LCV5GD'),
+    ('Orla','Yates',3,'85288532543','FBBOSCTC','YDE97QQS3ZT'),
+    ('September','Kidd',3,'82122435225','IYCEQZLJ','QJC46DBG5PG'),
+    ('Christopher','Martinez',3,'+72181442432','KDBQQPES','MDM31OPU2KE');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Beverly','Thornton',3,'82415757434','JJIQONIL','PMV88RWL8FX'),
+    ('Shannon','Gonzalez',3,'87524255936','YRLSHCSS','XJT16FLU8TV'),
+    ('Brennan','Finley',3,'81694047786','KTROOHPF','GNL87TAO2US'),
+    ('Trevor','O''brien',3,'+75261739473','DJVFJESC','VIW04BHB4QI'),
+    ('Kermit','Barlow',3,'+74272717908','EDTKFFFP','QFE71PMJ6TP'),
+    ('Georgia','Shaw',3,'+75217114746','OGUIFXTR','GXY96AYS1SD'),
+    ('Bianca','Alexander',3,'83536354324','RXCXEDCR','QTE56XVW4CP'),
+    ('Colt','Guthrie',3,'+77217966335','HDYKPMTQ','KCS12GRS0QT'),
+    ('Leandra','Merrill',3,'+72718521030','MDGVAOVQ','WJZ85HSL3SH'),
+    ('Hayfa','Lamb',3,'85297514576','CWLIMLWC','UCP38OKZ7TV');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Tate','Rivera',3,'+73278151382','QGODFUJG','WYC57IQN7VR'),
+    ('Bruce','Chavez',3,'+78449828834','CIUPOYLH','MYW61RFL4QW'),
+    ('Jaquelyn','Winters',3,'84875439006','YDYCRFOK','OJO18GBP5AW'),
+    ('Lane','Martin',3,'85784763699','XTUVIQFF','GKB72PGP8SB'),
+    ('Xantha','Rosales',3,'+77257514630','TJJOPYLV','CHF46IRC1UW'),
+    ('Jonas','Mckenzie',3,'88349626183','MHLNWTBQ','SAF30CJH5DH'),
+    ('Nash','Blackwell',3,'+74635765722','QTPEOJHE','MGK73SWN5PW'),
+    ('Jessamine','Baird',3,'+75319443450','QGFSIYTN','IHI62ARZ1PY'),
+    ('Nichole','Short',3,'+74411464383','ZXKNNVQT','PNU71IIK3OJ'),
+    ('Alexis','Horton',3,'85359209673','VWCOWRUY','VNH75EQC3ZU');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Dean','Leon',3,'+73513810228','RKYQPNNY','PBM95NXU4FH'),
+    ('Chester','Mann',3,'80588943764','RODLWKCW','NJQ04OAI9NA'),
+    ('Hunter','Stark',3,'88628363533','TZLXELJS','FQQ82ZYV4OX'),
+    ('Brooke','Salinas',3,'+76563651636','WGDUCDDF','HRP63TVU7VJ'),
+    ('Amir','Gallegos',3,'85814612756','DNREVDSK','GOL77SDD6YJ'),
+    ('Oren','Hendrix',3,'+76565861526','PHTCJNSC','QJM54QTD8EL'),
+    ('Montana','Pearson',3,'83148225742','UDMACOJY','FCK13OSG5TW'),
+    ('Karina','Delacruz',3,'+75592644128','YSOIUJPG','WWA22DMO9VS'),
+    ('Shay','Mckenzie',3,'81345972748','PAKLBGVR','WGB13QQL4SD'),
+    ('Chiquita','Howard',3,'87736498739','IQVPGJSY','PHS70USX8PA');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Alexander','Barnes',3,'+72738998381','GSURCRPU','CIR55KSB9UU'),
+    ('Colt','Saunders',3,'88648967852','GDXFXTOL','FNF24YMU9GO'),
+    ('Wayne','Stanton',3,'+74218376313','QLMFRWJE','TDH27YLE9VG'),
+    ('Charlotte','Miranda',3,'+75028245885','MONVYOAW','YYN62UHH8VO'),
+    ('Tamara','Martin',3,'+71447718207','WTGBYKJF','HGU50XOK6VV'),
+    ('Guy','Gibbs',3,'+72402251439','HEARWWCF','UNJ81YHZ7UO'),
+    ('Aquila','Serrano',3,'82313823647','KYUIQKMC','UIX34FWO3WF'),
+    ('Gage','Byrd',3,'+77268768620','USNJOTQV','KXK27KOC7GE'),
+    ('Hoyt','Roth',3,'88106528836','RZXCUQSB','LWF27JZQ9FY'),
+    ('Akeem','Glass',3,'82477464067','XKJXXCCY','PJM32TYM9OV');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Madonna','Doyle',3,'83218383842','JYXJZRPC','QKH91KXW7GL'),
+    ('Imogene','Preston',3,'+73379635749','VHMOVZQG','JWN45LXI9FA'),
+    ('Liberty','Rose',3,'+79320747168','ACAGOCIC','CFO40MSP1ZU'),
+    ('Dexter','Gilliam',3,'+72852138829','UBUKHMZI','CVS68TNX3UV'),
+    ('Naomi','Dejesus',3,'+78214643121','EBZLQVGQ','KIP60FCC4XQ'),
+    ('Miriam','Waters',3,'+76057423057','NYFJBZRH','KTF13TKV2YR'),
+    ('Calvin','Orr',3,'+76835846535','ICWUSCFL','DDH76WJL3TV'),
+    ('Hannah','Sutton',3,'+74927537095','GQXDUUHY','CUG28IKL3TC'),
+    ('Meghan','Perez',3,'+78913684470','ALNEMGBG','IHZ67FRU5PB'),
+    ('Martha','Kirkland',3,'84094424546','XSDTLMDZ','IWV74KJT7HM');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Quail','Sherman',3,'82182535344','KIIXMFMZ','XLV52QDJ9QK'),
+    ('Denton','Knowles',3,'84278352209','BRMIZRMF','KBL44WHX6AK'),
+    ('Kibo','Sweeney',3,'80916862257','OWNHQOJJ','YFK35MEK4TY'),
+    ('Akeem','Salazar',3,'83134337843','RWDIBBYL','HCR51IYY0MQ'),
+    ('Claudia','Campbell',3,'+77480573118','FSJGGQCU','PNN51EZF1GU'),
+    ('Iliana','Randolph',3,'85377698660','NIRTFIUI','FLM78VLL5YH'),
+    ('Edward','Vega',3,'81430326927','YYKLVRMG','ZRD42GER4WG'),
+    ('Aristotle','Forbes',3,'+74647579667','EBCNEINK','VCA33BGG4DX'),
+    ('Nell','Burnett',3,'82501682289','TJMFWQDH','ZVH80SWK7KH'),
+    ('Donovan','Delaney',3,'+72556583874','CPLRYQKM','DAT73YOW8NS');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Celeste','Dunn',3,'82733440980','QRFGEVYW','BFD44ZWL7UA'),
+    ('Ray','Wilkinson',3,'82698270587','PUSMCCUC','VPF75FEV9VG'),
+    ('Octavius','Madden',3,'+76323632244','MLUPIWDF','CSC31CRW8RU'),
+    ('Fitzgerald','Francis',3,'89316213331','KGDGVXLJ','WBZ22ZKJ0DH'),
+    ('Robert','Marsh',3,'+70583172633','XPNOWJAB','AIT69RSP8LM'),
+    ('India','Trevino',3,'83484855254','YDHRWTZS','KXB18TLC3TE'),
+    ('Lacota','Baldwin',3,'85701176851','KTPOKUOD','IEL37QMV3FN'),
+    ('Price','Stephenson',3,'81244331319','XURZLYCG','ZCX28XMC5YW'),
+    ('Kaye','Brewer',3,'83424613720','GRXYMIFG','OXK60RGH8PH'),
+    ('Raven','Acosta',3,'86223714078','LBESHRSY','MKE14DLB4JH');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Jarrod','Carney',3,'87352350627','WGYPUPTF','BIO55NZG5JX'),
+    ('Hayden','Fuller',3,'82628437505','IBTXQQHJ','CMT83JFZ1IM'),
+    ('Bernard','Mendoza',3,'87298087253','HSZOIEJY','WFL46KTT4RQ'),
+    ('Deacon','Haney',3,'+77462771915','LWGMOGUF','JRF34AWL2YV'),
+    ('Dennis','Heath',3,'82448629651','NCHVVUEE','PUU32FJF6JZ'),
+    ('Kenneth','Paul',3,'82584054843','TGQQXKHC','KWQ61ONX1WA'),
+    ('Fatima','Hunt',3,'86636021735','HJWCELUY','KFL81QPT4TJ'),
+    ('Price','Best',3,'+77221719489','ZRDZHWSP','GOB66NBS3GB'),
+    ('Brandon','Bates',3,'+79514526815','NXPMFZWC','TVH50GRX7DH'),
+    ('Miriam','Daniels',3,'86187561191','UTUYGHMS','SWP31JUL7LF');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Kim','Stafford',3,'88193471437','NFMGFLPX','EVN38WPJ6GK'),
+    ('Martin','Maynard',3,'82287789481','GYXMMGPX','OYX32NSC7HP'),
+    ('Vaughan','Gay',3,'86337821976','JVXYUPYL','VNQ18OWZ0HB'),
+    ('Macaulay','Harrell',3,'+75234673278','ARRTJECJ','FGI45JMP5VD'),
+    ('Ethan','Burns',3,'88238522583','VDRJWUNE','IUL17VNE2YE'),
+    ('Fuller','Simmons',3,'+73458161669','ISRXACPB','GWZ86JIO6QI'),
+    ('Russell','William',3,'+75866127123','BGVGWHCP','LCH88CHV4GG'),
+    ('Edan','Mcdonald',3,'81588088476','GBQWWLNF','PLK27UKK0TK'),
+    ('Leonard','Kirkland',3,'+73459330245','BFWDTTPP','SRC14LQL0XL'),
+    ('Quinn','Roman',3,'+74865471522','UIQMSDAG','SEK36VRF4MF');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Julian','Talley',3,'86411073221','DVTWHBHQ','TGN84BGN4IB'),
+    ('Yoko','Pace',3,'+71130897643','GYQIEQDN','DTF00MQX5VX'),
+    ('Althea','Walters',3,'+75267782383','CIHHGDXF','MZJ46QCS3YB'),
+    ('Sylvia','Walter',3,'84057011415','FUQGUZGN','ZRV44QOH8BC'),
+    ('Russell','Stuart',3,'+79096676815','GQRFENUR','NBV46NWV6WS'),
+    ('Emmanuel','Landry',3,'+76051476771','AURTRRFV','MQC50UEV1ET'),
+    ('Beverly','Nixon',3,'81715373882','DFSUVLQP','IOJ86GBY5HD'),
+    ('Belle','Burns',3,'+72418163264','LHDJLHJN','KCB22CFT0EO'),
+    ('Echo','Sykes',3,'+76195683128','YICTTAIG','NTJ88NEM4BL'),
+    ('Fleur','Suarez',3,'80257377218','IDDOGRXG','DPY91HQJ6NP');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Sonia','Hatfield',3,'+74364360433','HHNOYXMF','NKK62ILO6KJ'),
+    ('Samson','Glover',3,'82961431753','CRFNWJBS','BIU53PVO1ZN'),
+    ('Uriel','Romero',3,'86632130353','OZITPMOH','PQK52YAS7UJ'),
+    ('Griffith','Rose',3,'82748128956','FMYOPVPT','GQO42LPH1HB'),
+    ('Macon','Hopper',3,'+77894632263','SJJQJQCG','PNE93DOR3GN'),
+    ('Cheryl','Reed',3,'+72255821228','YIKCBYMI','YHK53PQT6RV'),
+    ('Maxwell','Gibson',3,'88318742289','EVISFDSE','CTU66JFO1HA'),
+    ('Alfreda','Hall',3,'+76891232363','CXQDGXRC','ERK21HCC3QF'),
+    ('Cain','Cameron',3,'89424775383','XTXIFLVE','CKN05UDO3KC'),
+    ('Alana','Dillon',3,'85227100423','USYFVRLG','JNM17FOG8YZ');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Ishmael','Sykes',3,'87116188583','LVYGEIFT','RVJ44GEO3DC'),
+    ('Sybil','Castro',3,'+72881570618','SEYVTJPI','UWM08JXM7EQ'),
+    ('Adara','Cook',3,'+74314593088','LGJQVSWO','HGM96CKX4RG'),
+    ('Kenneth','Hubbard',3,'83986804847','JXVEPIJU','IDX13DBA2GB'),
+    ('Zenaida','Day',3,'83687784717','VMTPYVIO','RRE91FCQ2GF'),
+    ('Brennan','Roberson',3,'83064666450','TNLHTBYO','OIM58CIU4RX'),
+    ('Tiger','Boone',3,'87252696558','YQCPEOFO','PBL85NDH2DS'),
+    ('Stone','Mcconnell',3,'88735202584','EKQCNGQE','KES17TXC3OV'),
+    ('Erica','Salazar',3,'+71922223229','EJQRSHVV','KTH28FYH8UK'),
+    ('Jemima','Rice',3,'84816542418','BEBWAWSM','YAD84GLC8MR');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Seth','Nieves',3,'+77622954600','SQHRDKBM','VOJ52VHH2KM'),
+    ('Scott','Chapman',3,'89595666146','XPMJBIMF','AUX34SKG1XS'),
+    ('Jesse','Franklin',3,'+74912111401','KSIKJIGV','MJG70SPV7YO'),
+    ('Dale','Hardy',3,'+71850061585','RHNGWSWD','CDG55UIY6RN'),
+    ('Jason','Copeland',3,'+71381181739','ONKMJNAJ','FGX28DLS9TF'),
+    ('Zenaida','Holloway',3,'+72068032352','XDWWJKBD','RMF72HXV7DI'),
+    ('Maryam','West',3,'+76368755985','XSCLIJBE','FCC60VBR3SB'),
+    ('Chastity','Dickerson',3,'+75151953872','XPLEGMBO','IFE98ACN7TJ'),
+    ('Preston','Solis',3,'+76482315884','HUMDPNSK','HVD40BGH6KS'),
+    ('Dale','Best',3,'+78001953418','KTMVNSNK','VIV76WTF8UF');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Thor','Diaz',3,'+78644585539','AZKYWFRV','PUN41XQQ0CI'),
+    ('Camden','Skinner',3,'+71578222572','XRQQSLII','NNK66SOV5PE'),
+    ('Ishmael','Rose',3,'85374864486','RGYZPHWA','BMI38RNI3JP'),
+    ('Amy','Black',3,'87707056445','VNEXGYTF','KGQ76EPY0WC'),
+    ('Hilda','Roy',3,'+75553466761','ZJDZSTOL','DCC74OVY6WM'),
+    ('Rhona','Bartlett',3,'87824660648','RBPQUZYC','ENA42XXC3YK'),
+    ('Hermione','Pope',3,'87277153518','MLCSCDWH','HMM61OJD6SQ'),
+    ('Nolan','Moss',3,'+74864695112','TIKYGAVJ','EBC14ZTX0GJ'),
+    ('Owen','Randall',3,'+72224372156','THTWHOUL','RCJ96OLK9CJ'),
+    ('Lydia','Cash',3,'85478722612','MJHDULFF','DEC58EVE7NK');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Lester','Snyder',3,'83486128762','CYVCKYIM','UDQ91WZP9MX'),
+    ('Barclay','Davidson',3,'82183074374','AERGRIQZ','SKT75BCO3LF'),
+    ('Aristotle','Carson',3,'+79428938021','OBFWHJKO','XWR18USI7IQ'),
+    ('Kameko','Nash',3,'81253632605','GPWWIGTS','YTR87NUU8MP'),
+    ('Leroy','Holden',3,'+75919536951','DZZVTEDQ','JVQ34JKO0PT'),
+    ('Austin','Snow',3,'+71716932110','VHQTLDIW','SLC35QXE3DD'),
+    ('Cullen','Hensley',3,'82193061787','KLPGOEVV','PJZ48GGW7SD'),
+    ('Halla','Wilcox',3,'85863692403','FMVHMIVQ','VDB54YFR0BY'),
+    ('Buffy','Cabrera',3,'88423084767','QNHSYGLS','BPN58LFP2OK'),
+    ('Sopoline','Tate',3,'+76571998784','AKMZSWOJ','XWS56EVN5VU');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Kessie','Townsend',3,'+78467639760','RGHSOVBO','VHR83YZJ0LG'),
+    ('Brooke','Kerr',3,'+70317685306','AOVHPTTV','POE13MED2GB'),
+    ('Lamar','Shepard',3,'80576625370','LEYUNZFI','HTI48QEI9YB'),
+    ('Allistair','Bates',3,'+70946224315','LKSUBTWC','DWX09HXI8QU'),
+    ('Jade','Richard',3,'+79635586546','EHMVPDFM','PJG31LFV1FT'),
+    ('Elvis','Velasquez',3,'+75615934871','TBKLNCZG','PEI36CPO7XP'),
+    ('Jeremy','Griffin',3,'81473821584','QMDDBJXY','SYJ02THC1VF'),
+    ('Gabriel','Bryan',3,'+74442615418','TQSEYUEY','KTO22MUI9CH'),
+    ('Jordan','Parrish',3,'85253796034','TGSABDRZ','BWS06VHD3KA'),
+    ('Gloria','Golden',3,'+77985926262','MJEQIDMG','NPN03GQO3WR');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Fallon','Garrett',3,'83027885145','TILDAUUE','SGR45TPI6QD'),
+    ('Lael','Heath',3,'+70737046837','ICSTFQOT','NDQ35IVG2JI'),
+    ('Beatrice','Freeman',3,'81865878351','MDGTGBIM','ORM58YCX6GD'),
+    ('Luke','Cardenas',3,'85112248267','FVIBNSCB','PIC13PQK9QQ'),
+    ('Kato','Buchanan',3,'83713579463','GNKXKUVC','BET49LXR0YC'),
+    ('Camille','Hammond',3,'85682132749','LWVXPKCR','KUB52NFF8AI'),
+    ('Reece','Mason',3,'+73675226926','BENRUYGN','KSQ45UTT8EQ'),
+    ('Duncan','York',3,'86045586378','JOSNKORU','YOW43SAV8PX'),
+    ('Indigo','Summers',3,'86885785360','GQEKKYMV','DSG71BQN7GQ'),
+    ('Zelda','Allen',3,'+73066759972','LENDKFQC','AUJ25YMO0GT');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Erica','Clemons',3,'+73155876814','YEOWDLDN','WWY95ZIX1PS'),
+    ('Gary','Henderson',3,'82329222712','VWUKEQNT','UIL32ICR4VI'),
+    ('Noelani','Lara',3,'+78431828367','NJLLLIDQ','JHH21DWN2FU'),
+    ('Adam','Donaldson',3,'+72056221808','JJOUWBUU','CKN66RXA1RL'),
+    ('Summer','Le',3,'88314434731','DPVWKPYS','WLO76ZVP8ZQ'),
+    ('Jerome','Carson',3,'+75368384649','VOKLFXGY','KVB11CMC7PO'),
+    ('Lynn','Wall',3,'85541107214','RWOAOEPT','REL11SRL3FG'),
+    ('Joy','Witt',3,'87476841571','HIVISYHV','PNB18DYF7ID'),
+    ('Adara','Webster',3,'+76487413483','UTZIQOVW','XBD61XYR7NM'),
+    ('Fatima','Wheeler',3,'+75112806388','TZIUJNBO','XMO98FXG7RC');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Emma','Stuart',3,'80581345576','GNQVGTGE','QCQ78FPR1VR'),
+    ('Anthony','Guerrero',3,'86624386610','MGBRTYSW','XEZ38EAL1VS'),
+    ('Davis','Daniels',3,'85687000621','VWWULDVT','WWM56KYO3HC'),
+    ('Gretchen','Morgan',3,'+78995453646','VLNESYBC','VMR53QGR3FT'),
+    ('Alan','O''brien',3,'83363351765','UTPSRKOK','LKF02VUF6QJ'),
+    ('Adam','Chan',3,'85589919684','OHMXQORR','DYR78KXS1RW'),
+    ('Noble','Vasquez',3,'88681356631','RQHTKTBC','HFI35OHM8SM'),
+    ('Germane','Mcgee',3,'+70545261546','HOBWGGRE','LLQ40KXU1XO'),
+    ('Germane','Fisher',3,'88873720394','RBQVQXLM','GIR13ECS9XX'),
+    ('Addison','Hunter',3,'+70555571622','SSPPZMLL','WOK74RPV5HZ');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Imani','Sweet',3,'+76133202697','LQXABDWO','TTX43GQB5UL'),
+    ('Jack','Wynn',3,'84610851832','KIUKNDEH','NWZ53VRG4DO'),
+    ('Philip','Dodson',3,'+78793323323','VVLYGIRN','GZW38SZP6QC'),
+    ('Hamilton','Strickland',3,'84126258522','MPFHOPYW','DTU41DVE4GI'),
+    ('Daniel','Thornton',3,'+77682886039','YFQTATZS','GCV20LEW7KV'),
+    ('Megan','Bradford',3,'+75267385552','TPSHVTKT','EQR21BPL7HS'),
+    ('Chaim','Hill',3,'+75297433663','IGOMQSIX','RCW63FJS0XC'),
+    ('Clayton','Richard',3,'+70873099165','LSVZDHNE','RRF57WOS4MQ'),
+    ('Rudyard','Sutton',3,'+71436916481','DBCVLSHD','YJD53PBU8CH'),
+    ('Anastasia','Cochran',3,'88082834714','EDIFUOYM','NJP64POQ2QF');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Jelani','Hammond',3,'+76710381282','LOPXYFTI','WFP97JUY9FJ'),
+    ('Murphy','Stanley',3,'+75281162564','CFFZYNSY','MTK40KVO0GU'),
+    ('Lani','Davenport',3,'82388133215','KBHOZMKL','IMI31TML6MM'),
+    ('Heidi','Gamble',3,'87385119298','TNSROYQU','SJX54ZZR1HH'),
+    ('Alfreda','Durham',3,'86615679556','RRCVYKRW','FLC91CRE1AM'),
+    ('Haley','Lee',3,'+71638835247','FGCJOIOX','ZSO14WHN9YD'),
+    ('Carl','Elliott',3,'81377747151','WNSJWLFT','SKY52SKO3VW'),
+    ('Brock','Lee',3,'+71650344530','FMADWIYJ','SFG12UJI8UI'),
+    ('Roth','Nieves',3,'+75264271754','DCQNCHLU','PBD17EUB2LK'),
+    ('Lance','Shields',3,'82076218844','BREGUTUY','EJN42CDP8XJ');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Ann','Cohen',3,'82064293736','YWUUKKLO','HZI44RGL9TL'),
+    ('Sean','Irwin',3,'82253931728','PGODQCHE','BDF06RJF1JN'),
+    ('Driscoll','Rosario',3,'+79348524784','QBSYHYQK','EWQ47VQG7LL'),
+    ('Samuel','Hebert',3,'85837135927','KMWQWPXG','HNU26WRO0TR'),
+    ('Dustin','Benjamin',3,'+77172403314','TTGWYBXP','XBF52GQJ4EW'),
+    ('Deacon','Mueller',3,'83826603372','PYQTQUBE','WMG40QAJ4RS'),
+    ('Armand','Strong',3,'+73234627447','DSWMZWOY','CDT79QHB3WJ'),
+    ('Vanna','Craig',3,'+75266717687','ECALFAQV','WIY47LDJ4FY'),
+    ('Darrel','Leon',3,'85069209753','GLHCVHOC','SHP79XUV2BM'),
+    ('Dylan','Hart',3,'88850753010','KFRKEIKM','FDG57ZOF4RU');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Sheila','Hull',3,'+77935265679','ICNGKRZO','NCS17MNW9ER'),
+    ('Hamish','Hunter',3,'+74988314873','NRGRVRKR','QQQ77VMO9MX'),
+    ('Bruce','Reid',3,'89091560140','CICDJPKA','TPX13SCL6UE'),
+    ('Sean','White',3,'+73147411600','YQHFZBYJ','WIK79WET1AG'),
+    ('Dominique','Long',3,'83681204466','OWYTKMZH','DSB14TDI0ER'),
+    ('Leo','Glover',3,'+78448564697','ZYTOJOMQ','YIT54QGV8OK'),
+    ('Ainsley','Blackburn',3,'87548983230','SJYBENWJ','KXI44CXS4MS'),
+    ('Haviva','Galloway',3,'86146861191','CXQJHWTE','XCQ34ELA0OX'),
+    ('Cassidy','Pratt',3,'+70458633133','WNGLJEGJ','LHY36OLU2DO'),
+    ('Glenna','Holland',3,'+76708758726','QRQPOYNC','NQA96FQL0IH');
+
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Aiko','Wilkerson',2,'+71475358887','ASKTRCOJ','BWB18DRB3JW'),
+    ('Giselle','Burks',2,'83542197234','XQJGRIMH','QUH11YGG8NT'),
+    ('Uriah','Cole',2,'82005960727','QCUODWOA','VXY35SJL0HN'),
+    ('Liberty','Chambers',2,'82816745624','YGPUCIMF','YCK75WIH8DN'),
+    ('Quyn','Christensen',2,'+73193481977','VVJEPOTP','CQZ11UAG6ES'),
+    ('Brielle','Morales',2,'+74150143142','IIZEDIJG','JFR08NTV9CQ'),
+    ('Caleb','Freeman',2,'82898552316','JBLMJRTH','DVR97QHJ2KX'),
+    ('Cairo','Buck',2,'+77875057471','LLIICFIT','HFO27VXV6YS'),
+    ('Armand','Haney',2,'87254500307','LYJTGJKF','TKY03RQU4QF'),
+    ('Shoshana','Stout',2,'88428181674','CTUAXECQ','CPH63DCR3CK');
+INSERT INTO users (firstname,lastname,role,number,login,password)
+VALUES
+    ('Thor','Gould',1,'83435472218','SATUMOST','JAX25JPK0YI');

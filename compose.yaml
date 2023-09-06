@@ -1,0 +1,18 @@
+version: '3.1'
+
+services:
+
+  db:
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_PASSWORD: example
+      POSTGRES_USER: db_user
+      POSTGRES_DB: database
+    ports:
+      - "5432:5432"
+    volumes:
+      - db1:/Users/kirill.pobedonostsev/Documents/univer/dbCourse/data
+      - /Users/kirill.pobedonostsev/Documents/univer/dbCourse/denisInit:/docker-entrypoint-initdb.d
+volumes:
+  db1:

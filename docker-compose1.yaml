@@ -1,0 +1,37 @@
+version: "3.9"
+services:
+  postgres:
+#    build: .
+    image: postgres
+    environment:
+      POSTGRES_PASSWORD: example
+      POSTGRES_USER: db_user
+      POSTGRES_DB: database
+    ports:
+      - "5432:5432"
+    volumes:
+      - db:/Users/kirill.pobedonostsev/Documents/univer/dbCourse/data
+      - /Users/kirill.pobedonostsev/Documents/univer/dbCourse/initDb:/docker-entrypoint-initdb.d
+  backend:
+    build:
+      context: ./build/docker
+      dockerfile: ./Dockerfile
+    image: library:0.0.1-SNAPSHOT
+    ports:
+      - "8080:8080"
+    environment:
+      DB_URL: postgres
+      DB_PORT: 5432
+      DB_NAME: database
+      DB_USER: db_user
+      DB_PASSWORD: example
+      PGDATA: "/var/lib/postgresql/data/pgdata"
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: ./Dockerfile
+    image: hospitalfront:18
+    ports:
+      - "80:80"
+volumes:
+  db:
